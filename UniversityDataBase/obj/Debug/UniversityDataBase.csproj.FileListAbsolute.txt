@@ -1,0 +1,24 @@
+C:\Users\Chamath\Downloads\swin-FDM\Final Project\UniversityDataBase\UniversityDataBase\bin\Debug\University.mdf
+C:\Users\Chamath\Downloads\swin-FDM\Final Project\UniversityDataBase\UniversityDataBase\bin\Debug\University_log.ldf
+C:\Users\Chamath\Downloads\swin-FDM\Final Project\UniversityDataBase\UniversityDataBase\bin\Debug\UniversityDataBase.exe.config
+C:\Users\Chamath\Downloads\swin-FDM\Final Project\UniversityDataBase\UniversityDataBase\bin\Debug\UniversityDataBase.exe
+C:\Users\Chamath\Downloads\swin-FDM\Final Project\UniversityDataBase\UniversityDataBase\bin\Debug\UniversityDataBase.pdb
+C:\Users\Chamath\Downloads\swin-FDM\Final Project\UniversityDataBase\UniversityDataBase\obj\Debug\UniversityDataBase.csprojAssemblyReference.cache
+C:\Users\Chamath\Downloads\swin-FDM\Final Project\UniversityDataBase\UniversityDataBase\obj\Debug\UniversityDataBase.Form1.resources
+C:\Users\Chamath\Downloads\swin-FDM\Final Project\UniversityDataBase\UniversityDataBase\obj\Debug\UniversityDataBase.Properties.Resources.resources
+C:\Users\Chamath\Downloads\swin-FDM\Final Project\UniversityDataBase\UniversityDataBase\obj\Debug\UniversityDataBase.csproj.GenerateResource.cache
+C:\Users\Chamath\Downloads\swin-FDM\Final Project\UniversityDataBase\UniversityDataBase\obj\Debug\UniversityDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Chamath\Downloads\swin-FDM\Final Project\UniversityDataBase\UniversityDataBase\obj\Debug\UniversityDataBase.exe
+C:\Users\Chamath\Downloads\swin-FDM\Final Project\UniversityDataBase\UniversityDataBase\obj\Debug\UniversityDataBase.pdb
+C:\Users\Chamath\Documents\swin\Fundamentals of Data Management\Final Project\UniversityDataBase\UniversityDataBase\bin\Debug\University.mdf
+C:\Users\Chamath\Documents\swin\Fundamentals of Data Management\Final Project\UniversityDataBase\UniversityDataBase\bin\Debug\University_log.ldf
+C:\Users\Chamath\Documents\swin\Fundamentals of Data Management\Final Project\UniversityDataBase\UniversityDataBase\bin\Debug\UniversityDataBase.exe.config
+C:\Users\Chamath\Documents\swin\Fundamentals of Data Management\Final Project\UniversityDataBase\UniversityDataBase\bin\Debug\UniversityDataBase.exe
+C:\Users\Chamath\Documents\swin\Fundamentals of Data Management\Final Project\UniversityDataBase\UniversityDataBase\bin\Debug\UniversityDataBase.pdb
+C:\Users\Chamath\Documents\swin\Fundamentals of Data Management\Final Project\UniversityDataBase\UniversityDataBase\obj\Debug\UniversityDataBase.csprojAssemblyReference.cache
+C:\Users\Chamath\Documents\swin\Fundamentals of Data Management\Final Project\UniversityDataBase\UniversityDataBase\obj\Debug\UniversityDataBase.Form1.resources
+C:\Users\Chamath\Documents\swin\Fundamentals of Data Management\Final Project\UniversityDataBase\UniversityDataBase\obj\Debug\UniversityDataBase.Properties.Resources.resources
+C:\Users\Chamath\Documents\swin\Fundamentals of Data Management\Final Project\UniversityDataBase\UniversityDataBase\obj\Debug\UniversityDataBase.csproj.GenerateResource.cache
+C:\Users\Chamath\Documents\swin\Fundamentals of Data Management\Final Project\UniversityDataBase\UniversityDataBase\obj\Debug\UniversityDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Chamath\Documents\swin\Fundamentals of Data Management\Final Project\UniversityDataBase\UniversityDataBase\obj\Debug\UniversityDataBase.exe
+C:\Users\Chamath\Documents\swin\Fundamentals of Data Management\Final Project\UniversityDataBase\UniversityDataBase\obj\Debug\UniversityDataBase.pdb
