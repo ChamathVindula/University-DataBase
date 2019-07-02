@@ -1,1 +1,2 @@
 # University-DataBase
+This is a local service-based database that i have created using visual studio. I have also created a minimal user interface in order to interact with the database using windows forms. The user can select one of four options of either adding, deleting, updating or viewing database records.Then the user has to actually provide the sql query which will perform the specified action.
